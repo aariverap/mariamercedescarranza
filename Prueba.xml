@@ -6,11 +6,23 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Título</title>
+            <title>Naturaleza muerta o poema del desamor</title>
+            <author>
+                <rs type="name" key="AdC">Álvaro de Campos</rs>
+            </author>
+            <respStmt>
+                <resp>Transcripción y codificación</resp>
+                <name>Andrés Rivera</name>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <p>Información de la Publicación</p>
          </publicationStmt>
+         <notesStmt>
+            <note type="genre">
+                <rs type="genre" key="poetry">Poesía</rs>
+            </note>
+        </notesStmt>
          <sourceDesc>
             <p>Información sobre la fuente</p>
          </sourceDesc>
@@ -18,7 +30,29 @@
   </teiHeader>
   <text>
       <body>
-         <p>Esto es un párrafo</p>
+        <div>
+            <head>NATURALEZA MUERTA O POEMA DEL DESAMOR</head>
+            <lg>
+                <l>Ahora en la hora del desamor</l>
+                <l>y sin la levedad irreal que da el deseo</l>
+                <l>flotan sus pasos y su gestos.</l>
+                <l>Las sonrisas sonánmbulas, asi sin boca,</l>
+                <l>aquellas palabras necesarias que no fueron posibles,</l>
+                <l>las preguntas que por miedo solo zumbaron como moscas,</l>
+                <l>la poca fe en las ceremonias de la ternura</l>
+                <l>y sus ojos, frío pedazo de carne azul.</l>
+                <l>Días perdidos en oficios de la imaginación,</l>
+                <l>como las largas cartas mentales a la hora de la siesta</l>
+                <l>o el recuerdo preciso y casi cierto</l>
+                <l>de encuentros por ahí, que nunca fueron.</l>
+                <l>Los sueños, siempre los sueños.</l>
+            </lg>  
+            <lg>
+                <l>¡Qué sucia es la luz de esta hora,</l>
+                <l>qué turbia es la memoria de lo poco que queda</l>
+                <l>y qué mezquino el inminente olvido!</l>
+            </lg>
+        </div>
       </body>
   </text>
 </TEI>
